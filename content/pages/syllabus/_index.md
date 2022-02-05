@@ -30,13 +30,66 @@ Since the class is small, we will be able to hear all of each other's thoughts a
 
 The approximate grade break-down will be:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Midterm exam | 10% |
-| Final paper | 20% |
-| Final oral presentation | 10% |
-| Other assignments | 30% |
-| Attendance, preparation, and participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, preparation, and participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A failing grade may be assigned for failure of any of the components of the class.
 
@@ -56,33 +109,397 @@ Tymoczko, Dmitri. _A Geometry of Music: Harmony and Counterpoint in the Extended
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Overview and quantitative approaches to simple music theory {{< br >}}{{< br >}} Introduction to the study of music history as commonly practiced {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Install Eclipse and music21 {{< br >}}{{< br >}} Assignment 1 out {{< br >}}{{< br >}}  |
-| 2 | Introduction to computation and music I |  {{< br >}}{{< br >}} Assignment 1 due {{< br >}}{{< br >}} Assignment 2 out {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Data analysis of repertories I {{< br >}}{{< br >}} Introduction to computation and music II {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Data analysis of repertories II {{< br >}}{{< br >}} Statistical significance in common-practice music (1750–1900) {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Musical representation for computers | Assignment 2 due |
-| 6 |  {{< br >}}{{< br >}} Assignment 2 presentations {{< br >}}{{< br >}} Computational methods in musicology: using music21 for music history research {{< br >}}{{< br >}}  | Assignment 3 out |
-| 7 |  {{< br >}}{{< br >}} Similarity and difference {{< br >}}{{< br >}} Searching repertories {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | Existing projects in quantitative and computational musicology: rock corpora | Assignment 4 out |
-| 9 |  {{< br >}}{{< br >}} Markov chains {{< br >}}{{< br >}} Mathematical foundations of ancient Greek music {{< br >}}{{< br >}}  | Assignment 3 due |
-| 10 | Mathematical models of musical behavior I | &nbsp; |
-| 11 | Mathematical models of musical behavior II: Elliot Carter | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Midterm exam {{< br >}}{{< br >}} Final projects assigned and discussed {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Music perception: guest lecture by Dr. Peter Cariani | Assignment 4 due |
-| 14 | Statistical methods for analyzing musical repertories I | &nbsp; |
-| 15 | Computational methods in musicology: using music21 for music theory I | &nbsp; |
-| 16 | Computational methods in musicology: using music21 for music theory II | &nbsp; |
-| 17 | Presentations on existing projects in digital musicology/music information retrieval | &nbsp; |
-| 18 | Visualizing music, its structure, and its development over time | Final paper descriptions due |
-| 19 |  {{< br >}}{{< br >}} Leftovers: feature extraction and machine learning {{< br >}}{{< br >}} MITx: thoughts and designs {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | Musical form and reduction: guest lecture by Phillip Kirlin | &nbsp; |
-| 21 | Expectation, anticipation, and music cognition in rhythm | &nbsp; |
-| 22 | Non-western music and digital humanities: guest lecture by Joren Six | &nbsp; |
-| 23 | Xenakis Sieve Applications using music21 | &nbsp; |
-| 24 | Grab Bag: Peachnote; isolating flaws in computational music studies; first student presentation | Final paper due |
-| 25 | Student presentations | &nbsp; |
-| 26 | Student presentations (cont.) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Overview and quantitative approaches to simple music theory
+
+Introduction to the study of music history as commonly practiced
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Install Eclipse and music21
+
+Assignment 1 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to computation and music I
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 1 due
+
+Assignment 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Data analysis of repertories I
+
+Introduction to computation and music II
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Data analysis of repertories II
+
+Statistical significance in common-practice music (1750–1900)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Musical representation for computers
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 2 presentations
+
+Computational methods in musicology: using music21 for music history research
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Similarity and difference
+
+Searching repertories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Existing projects in quantitative and computational musicology: rock corpora
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Markov chains
+
+Mathematical foundations of ancient Greek music
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Mathematical models of musical behavior I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Mathematical models of musical behavior II: Elliot Carter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm exam
+
+Final projects assigned and discussed
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music perception: guest lecture by Dr. Peter Cariani
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical methods for analyzing musical repertories I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Computational methods in musicology: using music21 for music theory I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Computational methods in musicology: using music21 for music theory II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on existing projects in digital musicology/music information retrieval
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Visualizing music, its structure, and its development over time
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper descriptions due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Leftovers: feature extraction and machine learning
+
+MITx: thoughts and designs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Musical form and reduction: guest lecture by Phillip Kirlin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Expectation, anticipation, and music cognition in rhythm
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Non-western music and digital humanities: guest lecture by Joren Six
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Xenakis Sieve Applications using music21
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Grab Bag: Peachnote; isolating flaws in computational music studies; first student presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Topics not covered in this version of the class: history and development of music information retrieval; Monte Carlo methods.

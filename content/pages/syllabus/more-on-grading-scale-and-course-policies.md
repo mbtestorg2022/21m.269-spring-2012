@@ -11,16 +11,147 @@ Grading Scale
 
 Many assignments and questions on exams will be graded 0–5 (some assignments will be weighed more than others, however). The scale will be very different than what you might be used to. **Expect to get scores in the 2–4 range**. 60% of the typical grading scale is wasted on failing grades, while only 20% of the scale (80%–100%) decides between adequate and exceptional answers. The expectation here is that most answers will be good or better and that we don't need to waste the scale on work that does not meet this expectation:
 
-| QUALITY OF WORK | TYPICAL SCALE | THIS SCALE | APPROXIMATE GRADE |
-| --- | --- | --- | --- |
-| Exceptional (see below) | 5 (100%) | 5 (100%) | A+ |
-| Superb | 4.8 (96%) | 4.5+ (90%) | A |
-| Excellent | 4.6 (92%) | 4+ (80%) | A– |
-| Very Good | 4.4 (88%) | 3+ (60%) | B+ |
-| Good | 4.25 (85%) | 2.5+ (50%) | B |
-| Acceptable to Adequate | 4 (80%) | 2+ (40%) | B– |
-| Barely Adequate | 3.5 (70%) | 1.5+ (30%) | C |
-| Substantially Flawed | 3 or lower (60%) | 1 or lower (20%) | D (1+) or F (0–1) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUALITY OF WORK
+{{< thclose >}}
+{{< thopen >}}
+TYPICAL SCALE
+{{< thclose >}}
+{{< thopen >}}
+THIS SCALE
+{{< thclose >}}
+{{< thopen >}}
+APPROXIMATE GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exceptional (see below)
+{{< tdclose >}}
+{{< tdopen >}}
+5 (100%)
+{{< tdclose >}}
+{{< tdopen >}}
+5 (100%)
+{{< tdclose >}}
+{{< tdopen >}}
+A+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Superb
+{{< tdclose >}}
+{{< tdopen >}}
+4.8 (96%)
+{{< tdclose >}}
+{{< tdopen >}}
+4.5+ (90%)
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Excellent
+{{< tdclose >}}
+{{< tdopen >}}
+4.6 (92%)
+{{< tdclose >}}
+{{< tdopen >}}
+4+ (80%)
+{{< tdclose >}}
+{{< tdopen >}}
+A–
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Very Good
+{{< tdclose >}}
+{{< tdopen >}}
+4.4 (88%)
+{{< tdclose >}}
+{{< tdopen >}}
+3+ (60%)
+{{< tdclose >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Good
+{{< tdclose >}}
+{{< tdopen >}}
+4.25 (85%)
+{{< tdclose >}}
+{{< tdopen >}}
+2.5+ (50%)
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Acceptable to Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+4 (80%)
+{{< tdclose >}}
+{{< tdopen >}}
+2+ (40%)
+{{< tdclose >}}
+{{< tdopen >}}
+B–
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Barely Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+3.5 (70%)
+{{< tdclose >}}
+{{< tdopen >}}
+1.5+ (30%)
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Substantially Flawed
+{{< tdclose >}}
+{{< tdopen >}}
+3 or lower (60%)
+{{< tdclose >}}
+{{< tdopen >}}
+1 or lower (20%)
+{{< tdclose >}}
+{{< tdopen >}}
+D (1+) or F (0–1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A consequence of this scale is that, for instance, two excellent assignments (4pts each) and one missing (0) will average 2.7 points (B/B+), while three adequate assignments (2pts each) will earn a B–/C+. The traditional system would give the first student a D+ and makes it nearly impossible to get an A or B+ range grade if you have even one bad or missing assignment (this is why so many professors fudge grades). There is also little reward in this scale for trying to fill space on an exam on an answer you know absolutely nothing about, since the difference between a D and a 0 is little. Of course, if you know just a little, you should write what you do know.
 

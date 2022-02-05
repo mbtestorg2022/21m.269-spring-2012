@@ -8,31 +8,542 @@ uid: 64897f6f-e8c9-c5ad-31c1-8b04a2b18491
 
 \[Tymoczko\] = Tymoczko, Dmitri. _A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice_. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with [Google Books](http://books.google.com/books?id=ODSt58Yk2YYC&pg=PAfrontcover#v=onepage)\]
 
-| SES # | TOPICS | DETAILS AND RESOURCES | READINGS AND LISTENING |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Overview and quantitative approaches to simple music theory {{< br >}}{{< br >}} Introduction to the study of music history as commonly practiced {{< br >}}{{< br >}}  | [Lecture 1 slides (PDF - 4.3MB)]({{< baseurl >}}/resources/mit21m_269s12_lec01) |  {{< br >}}{{< br >}} Cook, Nicholas. "Computational and Comparative Musicology." In _Empirical Musicology: Aims, Methods, Prospects_. Edited by Eric Clarke and Nicholas Cook. Oxford University Press, 2004. ISBN: 9780195167504. \[Preview with [Google Books](http://books.google.com/books?id=jJg-IyOsvnYC&pg=PA103#v=onepage)\] {{< br >}}{{< br >}} ———. "Towards a Complete Musicologist." _Proceedings of the International Society for Music Information Retrieval._ Queen Mary, London, 2005. {{< br >}}{{< br >}} "Introduction." Chapter 1 in \[Huron\]. {{< br >}}{{< br >}} {{< h 3 >}}Listening{{< /h >}} {{< br >}}{{< br >}} Ligeti, György. _Lux Aeterna_. Ensemble InterContemporain, Pierre Boulez. Deutsche Grammophon, 1988. {{< br >}}{{< br >}} Bartók, Bela. "String Quartet No. 4, Movement 1." From _Bela Bartók: The 6 String Quartets—Emerson Quartet_. Deutsche Grammophon, 1990. {{< br >}}{{< br >}}  |
-| 2 | Introduction to computation and music I | Using Python to load music for analysis, encoding, transposing, and manipulating musical scores. Descriptive statistics. Introduction to the Eclipse IDE, Python, and music21. | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Data analysis of repertories I {{< br >}}{{< br >}} Introduction to computation and music II {{< br >}}{{< br >}}  | Performing basic searches, finding significant musical features within a larger repertory. | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Data analysis of repertories II {{< br >}}{{< br >}} Statistical significance in common-practice music (1750–1900) {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Musical representation for computers | Introduction to methods that have been used to encode music for analysis, playback, and notation; Craig Sapp's "Rosetta Stone" for translating one notation format to another. | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Assignment 2 presentations {{< br >}}{{< br >}} Computational methods in musicology: using music21 for music history research {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Similarity and difference {{< br >}}{{< br >}} Searching repertories {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} Uitdenbogerd, Alexandra, and Justin Zobel. "[Matching Techniques for Large Music Databases](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.7129)." _Proceedings of ACM Multimedia 99._ 1999, pp. 57–66. {{< br >}}{{< br >}} "Statistical Properties of Music." Chapter 5 in \[Huron\]. pp. 73–89. |
-| 8 | Existing projects in quantitative and computational musicology I: rock corpora | &nbsp; |  {{< br >}}{{< br >}} Clercq, Trevor de, and David Temperley. "[A Corpus Analysis of Rock Harmony](http://dx.doi.org//10.1017/S026114301000067X)." _Popular Music_ 30, no. 1 (2011): 47–70. {{< br >}}{{< br >}} [The CMME Project](http://www.cmme.org/about) (computerized mensural music editing). {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Markov chains {{< br >}}{{< br >}} Mathematical foundations of ancient Greek music {{< br >}}{{< br >}}  | Using geometry and algebra to study acoustics and scales, mathematical foundations of music notation. | Chapters 1–5 in \[Tymoczko\]. |
-| 10 | Mathematical models of musical behavior I | Neoriemannian analysis, the work of David Lewin and other music theorists; Tymoczko's Geometries. | &nbsp; |
-| 11 | Mathematical models of musical behavior II | Development of the mathematical methods of the composer Elliot Carter (b.1908). | Harkleroad, Leon. "How _Not_ to Mix Mathematics and Music." Chapter 9 in _The Math Behind the Music_. Cambridge University Press, 2006, pp. 117–27. ISBN: 9780521009355. |
-| 12 |  {{< br >}}{{< br >}} Midterm exam {{< br >}}{{< br >}} Final projects assigned and discussed {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Music perception: guest lecture by Dr. Peter Cariani | Cognitive and evolutionary foundations of music and experimental methods of testing them. Possible additional topics: advanced acoustics and waveform analysis, reading and misreading MRI data. | More on this topic: Dr. Cariani's [_HST.725 Music Perception and Cognition_](/courses/hst-725-music-perception-and-cognition-spring-2009). |
-| 14 | Statistical methods for analyzing musical repertories | Bayesian mathematics of probability and expectation. | Krumhansl, Carol. "A Key-finding Algorithm Based on Tonal Hierarchies." In _Cognitive Foundations of Musical Pitch._ Oxford University Press, 1990, pp. 77–110. ISBN: 9780195054750. \[Preview with [Google Books](http://books.google.com/books?id=aJDEVqyArr4C&pg=PA77#v=onepage)\] {{< br >}}{{< br >}} Cuthbert, Michael Scott. "Tipping the Iceberg: Missing Italian Polyphony from the Age of Schism." _Musica Disciplina_ 54 (2009): 39–74. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515191) Temperley, David. "Probabilistic Foundations and Background." Chapter 2 in [_Music and Probability_](https://mitpress.mit.edu/9780262515191). MIT Press, 2010, pp. 7–22. ISBN: 9780262515191. \[Preview at [MIT Press](http://wdn.ipublishcentral.net/mit/viewinside/242493558691/pageno/20)\] {{< br >}}{{< br >}}  |
-| 15 | Computational methods in musicology: using music21 for music theory I | Roman numeral analysis of Bach chorales. K–L and Shannon divergence metrics; absolute distance vs. earth mover distances. | &nbsp; |
-| 16 | Computational methods in musicology: using music21 for music theory II | Roman numeral analysis of Bach chorales: Algorithms for detecting key changes in Bach chorales (windowed analysis using probe-tones; single-pass average functionality scores; multiple pass sectional combining). | &nbsp; |
-| 17 | Presentations on existing projects in digital musicology/music information retrieval II | Feature Extraction and Machine Learning. kNN, Tree-Building (overfitting), Majority. Cross-validation. | {{< h 3 >}}Optional Readings{{< /h >}} {{< br >}}{{< br >}} Cilibrasi, Rudi, Paul Vitányi, et al. "[Algorithmic Clustering of Music Based on String Compression](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=730C4368A2114529D1139D6F57DDED86?doi=10.1.1.219.497)." _Computer Music Journal_ 28, no. 4 (2004): 49–67. {{< br >}}{{< br >}} McKay, Cory. Chapters on jSymbolic in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Automatic Music Classification with jMIR_. (PDF - 5.6MB)](http://jmir.sourceforge.net/publications/PhD_Dissertation_2010.pdf) {{< br >}}{{< br >}} Cuthbert, Michael Scott, Christopher Ariza, and Lisa Friedland. ["Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://ismir2011.ismir.net/papers/PS3-6.pdf) _Proceedings of the International Symposium on Music Information Retrieval._ 2011, pp. 387–92. {{< br >}}{{< br >}} Cuthbert, Michael Scott, Christopher Ariza, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Hidden Beyond MIDI's Reach: Feature Extraction and Machine Learning with Rich Symbolic Formats in music21." (PDF)](http://web.mit.edu/music21/papers/Cuthbert_Ariza_Cabal-Ugaz_Hadley_Parikh-Hidden-NIPS2011.pdf) _Proceedings of the Neural Information Processing Systems Conference_. Music and Machine Learning, Workshop 4, 2011. {{< br >}}{{< br >}}  |
-| 18 | Visualizing music, its structure, and its development over time | Tools for viewing musical structures and grasping large bodies of music. Effective data presentation and plotting musical form. |  {{< br >}}{{< br >}} Tufte, Edward. Chapters 1–2 in _The Visual Display of Quantitative Information_. Graphics Press, 2001. ISBN: 9780961392147. {{< br >}}{{< br >}} ———. _The Cognitive Style of Powerpoint_. Graphics Press, 2003. ISBN: 9780961392154. {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} Leftovers: feature extraction and machine learning {{< br >}}{{< br >}} MITx: thoughts and designs {{< br >}}{{< br >}}  | music21 blog post on automated grading of common-practice music theory assignments: "[music21 Theory Analyzer](http://music21-mit.blogspot.com/2012/02/music21-theory-analyzer.html)." Feb 11, 2012. | &nbsp; |
-| 20 | Musical form and reduction: guest lecture by Phillip Kirlin |  {{< br >}}{{< br >}} Computational reductive and Schenkerian analysis {{< br >}}{{< br >}} For this class, prepare a reduction of theme from Mozart's _Piano Sonata No. 11 in A major_ (K331). {{< br >}}{{< br >}}  | Kirlin, Phillip, and David Jensen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Probabilistic Modeling of Hierarchical Music Analysis." (PDF)](http://ismir2011.ismir.net/papers/PS3-7.pdf) In _Proceeding of the International Symposium in Music Information Retrieval_. 2011. |
-| 21 | Expectation, anticipation, and music cognition in rhythm | &nbsp; |  {{< br >}}{{< br >}} Chapters 3–4 and especially Chapter 10 in \[Huron\]. {{< br >}}{{< br >}} {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201667) Temperley, David. "Melody I: The Rhythm Model." Chapter 3 in [_Music and Probability_](https://mitpress.mit.edu/9780262201667). MIT Press, 2006. ISBN: 9780262201667. (Read ch. 2 if Bayesian probability is still difficult). \[Preview at [MIT Press](http://wdn.ipublishcentral.net/mit/viewinside/242493558691/pageno/36)\] {{< br >}}{{< br >}}  |
-| 22 | Non-western music and digital humanities: guest lecture by Joren Six | &nbsp; | Six, Joren, and Olmo Cornelis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tarsos—A Platform to Explore Pitch Scales in Non-Western and Western Music." (PDF)](http://ismir2011.ismir.net/papers/OS2-4.pdf) _Proceedings of the International Society for Music Information Retrieval_. 2011, pp. 169–74. |
-| 23 | Xenakis sieve applications using music21 | &nbsp; |  {{< br >}}{{< br >}} Ariza, Christopher, and Michael Scott Cuthbert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Analytical and Compositional Applications of a Network-Based Scale Model in music21." (PDF - 5.5MB)](http://www.flexatone.org/static/docs/scaleNetwork.pdf) _Proceedings of the International Computer Music Conference_. 2011, pp. 701–8. {{< br >}}{{< br >}} Ariza, Christopher. "Designing and Deploying Non-Octave-Repeating Scales with the Xenakis Sieve." In _Exploring Xenakis_. Edited by Sharon Kanach. Pendragon Press, 2012 forthcoming.  {{< br >}}{{< br >}} {{< h 3 >}}Listening{{< /h >}} {{< br >}}{{< br >}} Xenakis, Iannis. "Nomos Alpha." _20th Century: Xenakis—Atrees / Nomos Alpha_. Pierre Penassou, cello. EMI Classics, 2010 reissue. {{< br >}}{{< br >}} ———. "À R (Hommage à Maurice Ravel)." _Xenakis: Works for Piano, Vol. 4_. Aki Takahashi, piano. Mode, 1999. {{< br >}}{{< br >}}  |
-| 24 | Grab Bag: Peachnote; isolating flaws in computational music studies; first student presentation | &nbsp; | Viro, Vladimir. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Peachnote: Music Score Search and Analysis Platform." (PDF)](http://ismir2011.ismir.net/papers/PS3-1.pdf) _Proceedings of the International Computer Music Conference_. 2012, pp. 359–62. |
-| 25 | Student presentations | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Student presentations (cont.) {{< br >}}{{< br >}}  | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DETAILS AND RESOURCES
+{{< thclose >}}
+{{< thopen >}}
+READINGS AND LISTENING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Overview and quantitative approaches to simple music theory
+
+Introduction to the study of music history as commonly practiced
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 1 slides (PDF - 4.3MB)]({{< baseurl >}}/resources/mit21m_269s12_lec01)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cook, Nicholas. "Computational and Comparative Musicology." In _Empirical Musicology: Aims, Methods, Prospects_. Edited by Eric Clarke and Nicholas Cook. Oxford University Press, 2004. ISBN: 9780195167504. \[Preview with [Google Books](http://books.google.com/books?id=jJg-IyOsvnYC&pg=PA103#v=onepage)\]
+
+———. "Towards a Complete Musicologist." _Proceedings of the International Society for Music Information Retrieval._ Queen Mary, London, 2005.
+
+"Introduction." Chapter 1 in \[Huron\].
+
+### Listening
+
+Ligeti, György. _Lux Aeterna_. Ensemble InterContemporain, Pierre Boulez. Deutsche Grammophon, 1988.
+
+Bartók, Bela. "String Quartet No. 4, Movement 1." From _Bela Bartók: The 6 String Quartets—Emerson Quartet_. Deutsche Grammophon, 1990.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to computation and music I
+{{< tdclose >}}
+{{< tdopen >}}
+Using Python to load music for analysis, encoding, transposing, and manipulating musical scores. Descriptive statistics. Introduction to the Eclipse IDE, Python, and music21.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Data analysis of repertories I
+
+Introduction to computation and music II
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Performing basic searches, finding significant musical features within a larger repertory.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Data analysis of repertories II
+
+Statistical significance in common-practice music (1750–1900)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Musical representation for computers
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to methods that have been used to encode music for analysis, playback, and notation; Craig Sapp's "Rosetta Stone" for translating one notation format to another.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 2 presentations
+
+Computational methods in musicology: using music21 for music history research
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Similarity and difference
+
+Searching repertories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Uitdenbogerd, Alexandra, and Justin Zobel. "[Matching Techniques for Large Music Databases](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.7129)." _Proceedings of ACM Multimedia 99._ 1999, pp. 57–66.
+
+"Statistical Properties of Music." Chapter 5 in \[Huron\]. pp. 73–89.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Existing projects in quantitative and computational musicology I: rock corpora
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clercq, Trevor de, and David Temperley. "[A Corpus Analysis of Rock Harmony](http://dx.doi.org//10.1017/S026114301000067X)." _Popular Music_ 30, no. 1 (2011): 47–70.
+
+[The CMME Project](http://www.cmme.org/about) (computerized mensural music editing).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Markov chains
+
+Mathematical foundations of ancient Greek music
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Using geometry and algebra to study acoustics and scales, mathematical foundations of music notation.
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1–5 in \[Tymoczko\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Mathematical models of musical behavior I
+{{< tdclose >}}
+{{< tdopen >}}
+Neoriemannian analysis, the work of David Lewin and other music theorists; Tymoczko's Geometries.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Mathematical models of musical behavior II
+{{< tdclose >}}
+{{< tdopen >}}
+Development of the mathematical methods of the composer Elliot Carter (b.1908).
+{{< tdclose >}}
+{{< tdopen >}}
+Harkleroad, Leon. "How _Not_ to Mix Mathematics and Music." Chapter 9 in _The Math Behind the Music_. Cambridge University Press, 2006, pp. 117–27. ISBN: 9780521009355.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm exam
+
+Final projects assigned and discussed
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music perception: guest lecture by Dr. Peter Cariani
+{{< tdclose >}}
+{{< tdopen >}}
+Cognitive and evolutionary foundations of music and experimental methods of testing them. Possible additional topics: advanced acoustics and waveform analysis, reading and misreading MRI data.
+{{< tdclose >}}
+{{< tdopen >}}
+More on this topic: Dr. Cariani's [_HST.725 Music Perception and Cognition_](/courses/hst-725-music-perception-and-cognition-spring-2009).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical methods for analyzing musical repertories
+{{< tdclose >}}
+{{< tdopen >}}
+Bayesian mathematics of probability and expectation.
+{{< tdclose >}}
+{{< tdopen >}}
+Krumhansl, Carol. "A Key-finding Algorithm Based on Tonal Hierarchies." In _Cognitive Foundations of Musical Pitch._ Oxford University Press, 1990, pp. 77–110. ISBN: 9780195054750. \[Preview with [Google Books](http://books.google.com/books?id=aJDEVqyArr4C&pg=PA77#v=onepage)\]
+
+Cuthbert, Michael Scott. "Tipping the Iceberg: Missing Italian Polyphony from the Age of Schism." _Musica Disciplina_ 54 (2009): 39–74.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515191) Temperley, David. "Probabilistic Foundations and Background." Chapter 2 in [_Music and Probability_](https://mitpress.mit.edu/9780262515191). MIT Press, 2010, pp. 7–22. ISBN: 9780262515191. \[Preview at [MIT Press](http://wdn.ipublishcentral.net/mit/viewinside/242493558691/pageno/20)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Computational methods in musicology: using music21 for music theory I
+{{< tdclose >}}
+{{< tdopen >}}
+Roman numeral analysis of Bach chorales. K–L and Shannon divergence metrics; absolute distance vs. earth mover distances.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Computational methods in musicology: using music21 for music theory II
+{{< tdclose >}}
+{{< tdopen >}}
+Roman numeral analysis of Bach chorales: Algorithms for detecting key changes in Bach chorales (windowed analysis using probe-tones; single-pass average functionality scores; multiple pass sectional combining).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on existing projects in digital musicology/music information retrieval II
+{{< tdclose >}}
+{{< tdopen >}}
+Feature Extraction and Machine Learning. kNN, Tree-Building (overfitting), Majority. Cross-validation.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Optional Readings
+
+Cilibrasi, Rudi, Paul Vitányi, et al. "[Algorithmic Clustering of Music Based on String Compression](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=730C4368A2114529D1139D6F57DDED86?doi=10.1.1.219.497)." _Computer Music Journal_ 28, no. 4 (2004): 49–67.
+
+McKay, Cory. Chapters on jSymbolic in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Automatic Music Classification with jMIR_. (PDF - 5.6MB)](http://jmir.sourceforge.net/publications/PhD_Dissertation_2010.pdf)
+
+Cuthbert, Michael Scott, Christopher Ariza, and Lisa Friedland. ["Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://ismir2011.ismir.net/papers/PS3-6.pdf) _Proceedings of the International Symposium on Music Information Retrieval._ 2011, pp. 387–92.
+
+Cuthbert, Michael Scott, Christopher Ariza, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Hidden Beyond MIDI's Reach: Feature Extraction and Machine Learning with Rich Symbolic Formats in music21." (PDF)](http://web.mit.edu/music21/papers/Cuthbert_Ariza_Cabal-Ugaz_Hadley_Parikh-Hidden-NIPS2011.pdf) _Proceedings of the Neural Information Processing Systems Conference_. Music and Machine Learning, Workshop 4, 2011.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Visualizing music, its structure, and its development over time
+{{< tdclose >}}
+{{< tdopen >}}
+Tools for viewing musical structures and grasping large bodies of music. Effective data presentation and plotting musical form.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tufte, Edward. Chapters 1–2 in _The Visual Display of Quantitative Information_. Graphics Press, 2001. ISBN: 9780961392147.
+
+———. _The Cognitive Style of Powerpoint_. Graphics Press, 2003. ISBN: 9780961392154.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Leftovers: feature extraction and machine learning
+
+MITx: thoughts and designs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+music21 blog post on automated grading of common-practice music theory assignments: "[music21 Theory Analyzer](http://music21-mit.blogspot.com/2012/02/music21-theory-analyzer.html)." Feb 11, 2012.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Musical form and reduction: guest lecture by Phillip Kirlin
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Computational reductive and Schenkerian analysis
+
+For this class, prepare a reduction of theme from Mozart's _Piano Sonata No. 11 in A major_ (K331).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Kirlin, Phillip, and David Jensen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Probabilistic Modeling of Hierarchical Music Analysis." (PDF)](http://ismir2011.ismir.net/papers/PS3-7.pdf) In _Proceeding of the International Symposium in Music Information Retrieval_. 2011.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Expectation, anticipation, and music cognition in rhythm
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapters 3–4 and especially Chapter 10 in \[Huron\].
+
+### Optional Reading
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201667) Temperley, David. "Melody I: The Rhythm Model." Chapter 3 in [_Music and Probability_](https://mitpress.mit.edu/9780262201667). MIT Press, 2006. ISBN: 9780262201667. (Read ch. 2 if Bayesian probability is still difficult). \[Preview at [MIT Press](http://wdn.ipublishcentral.net/mit/viewinside/242493558691/pageno/36)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Non-western music and digital humanities: guest lecture by Joren Six
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Six, Joren, and Olmo Cornelis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tarsos—A Platform to Explore Pitch Scales in Non-Western and Western Music." (PDF)](http://ismir2011.ismir.net/papers/OS2-4.pdf) _Proceedings of the International Society for Music Information Retrieval_. 2011, pp. 169–74.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Xenakis sieve applications using music21
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ariza, Christopher, and Michael Scott Cuthbert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Analytical and Compositional Applications of a Network-Based Scale Model in music21." (PDF - 5.5MB)](http://www.flexatone.org/static/docs/scaleNetwork.pdf) _Proceedings of the International Computer Music Conference_. 2011, pp. 701–8.
+
+Ariza, Christopher. "Designing and Deploying Non-Octave-Repeating Scales with the Xenakis Sieve." In _Exploring Xenakis_. Edited by Sharon Kanach. Pendragon Press, 2012 forthcoming. 
+
+### Listening
+
+Xenakis, Iannis. "Nomos Alpha." _20th Century: Xenakis—Atrees / Nomos Alpha_. Pierre Penassou, cello. EMI Classics, 2010 reissue.
+
+———. "À R (Hommage à Maurice Ravel)." _Xenakis: Works for Piano, Vol. 4_. Aki Takahashi, piano. Mode, 1999.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Grab Bag: Peachnote; isolating flaws in computational music studies; first student presentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Viro, Vladimir. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Peachnote: Music Score Search and Analysis Platform." (PDF)](http://ismir2011.ismir.net/papers/PS3-1.pdf) _Proceedings of the International Computer Music Conference_. 2012, pp. 359–62.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student presentations (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
