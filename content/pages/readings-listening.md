@@ -358,11 +358,11 @@ Feature Extraction and Machine Learning. kNN, Tree-Building (overfitting), Major
 
 Cilibrasi, Rudi, Paul Vitányi, et al. "[Algorithmic Clustering of Music Based on String Compression](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=730C4368A2114529D1139D6F57DDED86?doi=10.1.1.219.497)." _Computer Music Journal_ 28, no. 4 (2004): 49–67.
 
-McKay, Cory. Chapters on jSymbolic in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Automatic Music Classification with jMIR_. (PDF - 5.6MB)](http://jmir.sourceforge.net/publications/PhD_Dissertation_2010.pdf)
+McKay, Cory. Chapters on jSymbolic in [_Automatic Music Classification with jMIR_. (PDF - 5.6MB)](http://jmir.sourceforge.net/publications/PhD_Dissertation_2010.pdf)
 
-Cuthbert, Michael Scott, Christopher Ariza, and Lisa Friedland. ["Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://ismir2011.ismir.net/papers/PS3-6.pdf) _Proceedings of the International Symposium on Music Information Retrieval._ 2011, pp. 387–92.
+Cuthbert, Michael Scott, Christopher Ariza, and Lisa Friedland. ["Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit." (PDF)](http://ismir2011.ismir.net/papers/PS3-6.pdf) _Proceedings of the International Symposium on Music Information Retrieval._ 2011, pp. 387–92.
 
-Cuthbert, Michael Scott, Christopher Ariza, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Hidden Beyond MIDI's Reach: Feature Extraction and Machine Learning with Rich Symbolic Formats in music21." (PDF)](http://web.mit.edu/music21/papers/Cuthbert_Ariza_Cabal-Ugaz_Hadley_Parikh-Hidden-NIPS2011.pdf) _Proceedings of the Neural Information Processing Systems Conference_. Music and Machine Learning, Workshop 4, 2011.
+Cuthbert, Michael Scott, Christopher Ariza, et al. ["Hidden Beyond MIDI's Reach: Feature Extraction and Machine Learning with Rich Symbolic Formats in music21." (PDF)](http://web.mit.edu/music21/papers/Cuthbert_Ariza_Cabal-Ugaz_Hadley_Parikh-Hidden-NIPS2011.pdf) _Proceedings of the Neural Information Processing Systems Conference_. Music and Machine Learning, Workshop 4, 2011.
 
 
 {{< tdclose >}}
@@ -427,7 +427,7 @@ For this class, prepare a reduction of theme from Mozart's _Piano Sonata No. 11 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kirlin, Phillip, and David Jensen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Probabilistic Modeling of Hierarchical Music Analysis." (PDF)](http://ismir2011.ismir.net/papers/PS3-7.pdf) In _Proceeding of the International Symposium in Music Information Retrieval_. 2011.
+Kirlin, Phillip, and David Jensen. ["Probabilistic Modeling of Hierarchical Music Analysis." (PDF)](http://ismir2011.ismir.net/papers/PS3-7.pdf) In _Proceeding of the International Symposium in Music Information Retrieval_. 2011.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -465,7 +465,7 @@ Non-western music and digital humanities: guest lecture by Joren Six
  
 {{< tdclose >}}
 {{< tdopen >}}
-Six, Joren, and Olmo Cornelis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tarsos—A Platform to Explore Pitch Scales in Non-Western and Western Music." (PDF)](http://ismir2011.ismir.net/papers/OS2-4.pdf) _Proceedings of the International Society for Music Information Retrieval_. 2011, pp. 169–74.
+Six, Joren, and Olmo Cornelis. ["Tarsos—A Platform to Explore Pitch Scales in Non-Western and Western Music." (PDF)](http://ismir2011.ismir.net/papers/OS2-4.pdf) _Proceedings of the International Society for Music Information Retrieval_. 2011, pp. 169–74.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -482,7 +482,7 @@ Xenakis sieve applications using music21
 {{< tdopen >}}
 
 
-Ariza, Christopher, and Michael Scott Cuthbert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Analytical and Compositional Applications of a Network-Based Scale Model in music21." (PDF - 5.5MB)](http://www.flexatone.org/static/docs/scaleNetwork.pdf) _Proceedings of the International Computer Music Conference_. 2011, pp. 701–8.
+Ariza, Christopher, and Michael Scott Cuthbert. ["Analytical and Compositional Applications of a Network-Based Scale Model in music21." (PDF - 5.5MB)](http://www.flexatone.org/static/docs/scaleNetwork.pdf) _Proceedings of the International Computer Music Conference_. 2011, pp. 701–8.
 
 Ariza, Christopher. "Designing and Deploying Non-Octave-Repeating Scales with the Xenakis Sieve." In _Exploring Xenakis_. Edited by Sharon Kanach. Pendragon Press, 2012 forthcoming. 
 
@@ -507,7 +507,7 @@ Grab Bag: Peachnote; isolating flaws in computational music studies; first stude
  
 {{< tdclose >}}
 {{< tdopen >}}
-Viro, Vladimir. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Peachnote: Music Score Search and Analysis Platform." (PDF)](http://ismir2011.ismir.net/papers/PS3-1.pdf) _Proceedings of the International Computer Music Conference_. 2012, pp. 359–62.
+Viro, Vladimir. ["Peachnote: Music Score Search and Analysis Platform." (PDF)](http://ismir2011.ismir.net/papers/PS3-1.pdf) _Proceedings of the International Computer Music Conference_. 2012, pp. 359–62.
 {{< tdclose >}}
 
 {{< trclose >}}
