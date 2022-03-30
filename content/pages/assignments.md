@@ -19,7 +19,7 @@ Supporting file for problem 4: [instruments.py]({{< baseurl >}}/resources/instru
 
 Additional Python resources:
 
-*   Little or no programming experience? See [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/)
+*   Little or no programming experience? See [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011)
 *   Some programming experience in other languages? See the [Python Tutorial](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/python-tutorial) in _6.01SC Introduction to Electrical Engineering and Computer Science I_
 
 Assignment 3: Problem Set 2
